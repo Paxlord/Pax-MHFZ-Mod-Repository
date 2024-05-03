@@ -4,10 +4,10 @@ Repository for all of my MHFZ mods. All of the mods here can be considered exper
 ## Installing
 All of the mods in this repository work with my mod loader that can be found here : https://github.com/Paxlord/Pax-Mhfz-Loader
 
-### If the mod is a .dll
+### > If the mod is a .dll
 The dll needs to be placed inside the "mods" folder.
 
-### If the mod is a .zip/.rar
+### > If the mod is a .zip/.rar
 The full content of the archive needs to be put inside the "mods" folder.
 
 # Mods
