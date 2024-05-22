@@ -29,13 +29,15 @@ The full content of the archive needs to be put inside the "mods" folder.
 
 <details>
   <summary>Box Swap</summary>
-   ## Box Swap
-  Swap all of the boxes with the one you can find at the smithy or in your house. Due to some issues with cuffs, the box reverts to the small one when you have a quest up. 
+  
+ ## Box Swap
+ Swap all of the boxes with the one you can find at the smithy or in your house. Due to some issues with cuffs, the box reverts to the small one when you have a quest up. 
 </details>  
 
 <details>
   <summary>Ui Tweaks</summary>
-  ## Ui Tweaks
+  
+ ## Ui Tweaks
   Collection of random small and large UI modifications/QoL, here's the full list of things in the mod so far (it's bound to evolve with time so feel free to check back): 
   
   ### Sharpness alpha fix 
