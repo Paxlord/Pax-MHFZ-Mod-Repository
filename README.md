@@ -45,18 +45,22 @@ The full content of the archive needs to be put inside the "mods" folder.
   
   ### DB Sharpness Buff display 
   Displays the DB stacking sharpening buff as 4 whetstone icons 
+  
   ![image](https://github.com/Paxlord/Pax-MHFZ-Mod-Repository/assets/19719025/9fab7184-5b14-44f0-89ca-3cbf99f399b9)
   
   ### HH Compendium/Cheat sheet
   Displays a list of available songs based on your equipped Hunting Horn
+  
   ![image](https://github.com/Paxlord/Pax-MHFZ-Mod-Repository/assets/19719025/92adc7f4-bfac-4b8f-a316-ae56501103df)
   
   ### Movable Ammo Display
   Simple ammo display for bowgun that displays the current ammo and the max ammo you currently have loaded
+  
   ![image](https://github.com/Paxlord/Pax-MHFZ-Mod-Repository/assets/19719025/4eee2881-1137-4f20-9397-884ea115371a)
 
   ### Detailed Players HP display
   Displays the players hp and max/hp values
+  
   ![image](https://github.com/Paxlord/Pax-MHFZ-Mod-Repository/assets/19719025/06a418b6-74a0-48fb-b79c-3c143b260d7a)
 
 </details> 
