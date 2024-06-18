@@ -2,6 +2,9 @@
 Repository for all of my MHFZ mods. All of the mods here can be considered experimental and you might have some issues with them. Feel free to report any bugs or features suggestions in this repo or shoot me a discord DM at @pax_777.
 
 ## Changelogs
+ - 18/06/2024
+   - UI Tweaks
+     - Added a config option to override HH notes with a string of any note combination. Should cover the weird edge cases where HH notes weren't set through the weapon data (Tower HH, Color change sigil). 
  - 22/05/2024
    - UI Tweaks
      - Fixed a display bug that caused the HH song list backdrop to be the wrong opacity
