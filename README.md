@@ -2,6 +2,9 @@
 Repository for all of my MHFZ mods. All of the mods here can be considered experimental and you might have some issues with them. Feel free to report any bugs or features suggestions in this repo or shoot me a discord DM at @pax_777.
 
 ## Changelogs
+- 24/08/2024
+   - UI Tweaks
+     - Added the upgrade message skip module
  - 18/06/2024
    - UI Tweaks
      - Added a config option to override HH notes with a string of any note combination. Should cover the weird edge cases where HH notes weren't set through the weapon data (Tower HH, Color change sigil). 
@@ -65,6 +68,11 @@ The full content of the archive needs to be put inside the "mods" folder.
   Displays the players hp and max/hp values
   
   ![image](https://github.com/Paxlord/Pax-MHFZ-Mod-Repository/assets/19719025/06a418b6-74a0-48fb-b79c-3c143b260d7a)
+
+  ### Upgrade Message Skip
+  When upgrading and armor or weapon, skips the prompt that asks you if you want to equip it
+  
+  ![image](https://github.com/user-attachments/assets/1c958980-185c-4129-8545-8856bb2ed930)
 
 </details> 
 
